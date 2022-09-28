@@ -1,0 +1,18 @@
+pandas==1.4.2
+
+# IO / Web Scraping
+requests==2.27.0
+beautifulsoup4==4.10.0
+lxml==4.7.1
+fake-useragent==0.1.11
+# free-proxy==1.0.6 # still testing - https://pypi.org/project/free-proxy/
+
+aiohttp
+
+# Server
+Flask==2.1.1
+Flask-RESTful==0.3.9
+Flask-Cors==3.0.10
+flask-restx==0.5.1
+werkzeug==2.0.3
+gunicorn
